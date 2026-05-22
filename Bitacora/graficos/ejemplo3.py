@@ -9,7 +9,7 @@ plt.bar(categorias, valores)
 
 # Agregar título y etiquetas
 plt.title('Gráfica de Barras')
-plt.xlabel('Categorías')
+plt.xlabel('Categorias')
 plt.ylabel('Valores')
 
 # Mostrar la gráfica

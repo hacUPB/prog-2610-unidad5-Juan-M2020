@@ -2,7 +2,7 @@ fp = open(".\\Bitacora\\ArchivosTextos\\leer.txt" , "r", encoding="utf-8")
 datos_1 = fp.readlines()
 # print("Primera lectura:", datos_1)
 
-print(datos_1[0])
+print(datos_1[2])
 # datos_2 = fp.read(5)
 # print("Segunda lectura:", datos_2)
 

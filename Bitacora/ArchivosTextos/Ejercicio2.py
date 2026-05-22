@@ -4,5 +4,5 @@ lista = fp.readlines()
 fp.close()
 print(lista)
 
-for linea in lista:
-    print(linea[0])
+# for linea in lista:
+#     print(linea[0])
