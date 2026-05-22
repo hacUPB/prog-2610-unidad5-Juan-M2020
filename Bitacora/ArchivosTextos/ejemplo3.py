@@ -1,0 +1,12 @@
+archivo = open(".\\Bitacora\\ArchivosTextos\\log.txt", "w", encoding="utf-8")
+texto = input("Ingrese una frase: ")
+edad = int(input("Ingresa tu edad: "))
+estatura = float(input("Ingresa tu estatura: "))
+# archivo.write(f"{texto}\n")
+# archivo.write(f"{edad}\n")
+# archivo.write(f"{estatura}\n")
+archivo.write(str(texto)+"\n")
+archivo.write(str(edad)+"\n")
+archivo.write(str(estatura)+"\n")
+
+archivo.close()

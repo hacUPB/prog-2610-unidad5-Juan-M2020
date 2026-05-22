@@ -1,0 +1,30 @@
+2025-01-10 06:30 INFO Vuelo AV201 despegó correctamente desde Medellin
+2025-01-10 07:15 WARNING Retraso por mantenimiento preventivo
+2025-01-10 08:00 ERROR Falla en sistema hidráulico
+2025-01-10 08:45 INFO Pasajeros abordaron exitosamente
+2025-01-10 09:10 404 Torre de control no responde
+2025-01-10 10:20 INFO Vuelo LA320 aterrizó correctamente en Bogota
+2025-01-11 06:00 INFO Inicio de operaciones aeroportuarias
+2025-01-11 07:40 ERROR Retraso por condiciones climáticas
+2025-01-11 08:25 WARNING Nivel de combustible bajo
+2025-01-11 09:00 INFO Revisión técnica completada
+2025-01-11 09:35 ERROR Radar secundario fuera de servicio
+2025-01-11 10:50 INFO Vuelo IB640 salió hacia Cartagena
+2025-01-12 06:10 INFO Sistema meteorológico operativo
+2025-01-12 07:00 WARNING Alta congestión de pasajeros
+2025-01-12 08:45 ERROR Falla de comunicación con cabina
+2025-01-12 09:20 INFO Equipaje cargado exitosamente
+2025-01-12 10:00 404 Pista secundaria no disponible
+2025-01-12 11:15 INFO Vuelo AV450 aterrizó correctamente
+2025-01-13 06:25 INFO Inicio de inspección de aeronaves
+2025-01-13 07:05 WARNING Posible retraso por tormenta
+2025-01-13 08:40 ERROR Sensor de altitud defectuoso
+2025-01-13 09:30 INFO Vuelo CM210 autorizado para despegue
+2025-01-13 10:15 INFO Pasajeros en sala de espera
+2025-01-13 11:00 ERROR Falla eléctrica en hangar principal
+2025-01-14 06:45 INFO Operaciones normales en Medellin
+2025-01-14 07:50 WARNING Tráfico aéreo elevado
+2025-01-14 08:30 ERROR Sistema de navegación inestable
+2025-01-14 09:10 INFO Vuelo UX890 aterrizó exitosamente
+2025-01-14 10:40 404 Error de acceso al servidor central
+2025-01-14 11:20 INFO Reabastecimiento de combustible completado
